@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="4Yes0QZbs5Iksf__4nAR">
-    <mxGraphModel dx="1011" dy="519" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1733" dy="890" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,11 +97,8 @@
         <mxCell id="lifuWOY1_VOgwzfqxcus-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="32" vertex="1">
           <mxGeometry height="24" width="36" x="236" y="274.5" as="geometry" />
         </mxCell>
-        <mxCell id="lifuWOY1_VOgwzfqxcus-104" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" value="" vertex="1">
-          <mxGeometry height="43.5" width="235" x="1297" y="543.25" as="geometry" />
-        </mxCell>
         <mxCell id="lifuWOY1_VOgwzfqxcus-105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" value="" vertex="1">
-          <mxGeometry height="43.5" width="115" x="1490" y="548" as="geometry" />
+          <mxGeometry height="43.5" width="115" x="1357" y="545.5" as="geometry" />
         </mxCell>
         <mxCell id="lifuWOY1_VOgwzfqxcus-106" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=80;exitDy=50;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -109,17 +106,8 @@
             <mxPoint x="1392" y="574.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lifuWOY1_VOgwzfqxcus-107" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=80;exitDy=50;exitPerimeter=0;entryX=0.572;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;" target="lifuWOY1_VOgwzfqxcus-105" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1437" y="577.25" as="sourcePoint" />
-            <mxPoint x="1532" y="576.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lifuWOY1_VOgwzfqxcus-108" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="fc1" vertex="1">
           <mxGeometry height="30" width="60" x="1310" y="552.25" as="geometry" />
-        </mxCell>
-        <mxCell id="lifuWOY1_VOgwzfqxcus-109" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="fc2" vertex="1">
-          <mxGeometry height="30" width="60" x="1451" y="554.75" as="geometry" />
         </mxCell>
         <mxCell id="lifuWOY1_VOgwzfqxcus-110" edge="1" parent="1" source="lifuWOY1_VOgwzfqxcus-1" style="endArrow=classic;html=1;rounded=0;exitX=0.463;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.476;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;" target="lifuWOY1_VOgwzfqxcus-44" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -418,7 +406,7 @@
         <mxCell id="lifuWOY1_VOgwzfqxcus-188" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="14" vertex="1">
           <mxGeometry height="19" width="36" x="905" y="535.5" as="geometry" />
         </mxCell>
-        <mxCell id="lifuWOY1_VOgwzfqxcus-189" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="256" vertex="1">
+        <mxCell id="lifuWOY1_VOgwzfqxcus-189" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="512" vertex="1">
           <mxGeometry height="24" width="36" x="943" y="596" as="geometry" />
         </mxCell>
         <mxCell id="lifuWOY1_VOgwzfqxcus-190" edge="1" parent="1" source="lifuWOY1_VOgwzfqxcus-180" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=80;exitDy=50;exitPerimeter=0;entryX=-0.026;entryY=0.611;entryDx=0;entryDy=0;entryPerimeter=0;" target="lifuWOY1_VOgwzfqxcus-186" value="">
@@ -439,7 +427,7 @@
         <mxCell id="lifuWOY1_VOgwzfqxcus-194" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="10" vertex="1">
           <mxGeometry height="19" width="36" x="1069" y="535" as="geometry" />
         </mxCell>
-        <mxCell id="lifuWOY1_VOgwzfqxcus-195" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="512" vertex="1">
+        <mxCell id="lifuWOY1_VOgwzfqxcus-195" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="1024" vertex="1">
           <mxGeometry height="24" width="36" x="1107" y="595.5" as="geometry" />
         </mxCell>
         <mxCell id="lifuWOY1_VOgwzfqxcus-196" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;verticalAlign=middle;" value="&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Conv10&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;k = 5&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;p = 0&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;s = 1&lt;/font&gt;&lt;/p&gt;&lt;/h1&gt;&lt;/div&gt;" vertex="1">
@@ -460,7 +448,7 @@
         <mxCell id="lifuWOY1_VOgwzfqxcus-200" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="5" vertex="1">
           <mxGeometry height="19" width="36" x="1246" y="535.5" as="geometry" />
         </mxCell>
-        <mxCell id="lifuWOY1_VOgwzfqxcus-201" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="512" vertex="1">
+        <mxCell id="lifuWOY1_VOgwzfqxcus-201" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="1024" vertex="1">
           <mxGeometry height="24" width="36" x="1284" y="596" as="geometry" />
         </mxCell>
         <mxCell id="lifuWOY1_VOgwzfqxcus-202" edge="1" parent="1" source="lifuWOY1_VOgwzfqxcus-192" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=80;exitDy=50;exitPerimeter=0;" value="">
